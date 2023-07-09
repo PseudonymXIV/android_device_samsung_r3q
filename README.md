@@ -1,4 +1,4 @@
-# Android device tree for samsung SM-A908B (r3q)
+# Android device tree for Samsung Galaxy A90 5G SM-A908B (r3q)
 
 ```
 #
